@@ -4,6 +4,6 @@
         <file>picture/2.png</file>
         <file>picture/3.png</file>
         <file>picture/4.png</file>
-        <file>picture/Icon.ico</file>
+        <file>picture/icon.ico</file>
     </qresource>
 </RCC>

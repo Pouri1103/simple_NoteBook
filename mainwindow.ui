@@ -14,9 +14,8 @@
    <string>NoteBook</string>
   </property>
   <property name="windowIcon">
-   <iconset>
-    <normalon>:/picture/picture/Icon.ico</normalon>
-   </iconset>
+   <iconset resource="icoRes.qrc">
+    <normaloff>:/picture/picture/icon.ico</normaloff>:/picture/picture/icon.ico</iconset>
   </property>
   <widget class="QWidget" name="centralwidget">
    <layout class="QGridLayout" name="gridLayout">
